@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='androidx.recyclerview.widget.RecyclerView int getChildAdapterPosition(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
